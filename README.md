@@ -10,7 +10,7 @@ Please visit this link https://angular-budget-calculator.herokuapp.com/
 
 ## Screenshots
 
-![Application Screenshot Defaul](./src/assets/screenshots/Default.png)
+![Application Screenshot Default](./src/assets/screenshots/SS_Default.png)
 ![Application Screenshot Edit Modal](./src/assets/screenshots/SS_Edit_Modal.png)
 ![Application Screenshot After Edit](./src/assets/screenshots/SS_After_Edit.png)
 
