@@ -6,7 +6,7 @@ I learn how to create a small web project using Angular from youtube video
 
 ## Screenshots
 
-[![Application Screenshot Progress](./src/assets/screenshots/UI-Completed.png)]
+![Application Screenshot Progress](./src/assets/screenshots/UI-Completed.png)
 
 # BudgetApp
 
