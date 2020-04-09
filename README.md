@@ -1,3 +1,13 @@
+# Budget Calculator App (Angular)
+
+I learn how to create a small web project using Angular from youtube video
+
+##### You can watch the full tutorial ( this is not my video :D ) on [Youtube](https://youtu.be/sU4z4Ti-8OQ)!
+
+## Screenshots
+
+[![Application Screenshot Progress](./src/assets/screenshots/UI-Completed.png)]
+
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
