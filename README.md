@@ -4,9 +4,15 @@ I learn how to create a small web project using Angular from youtube video
 
 ##### You can watch the full tutorial ( this is not my video :D ) on [Youtube](https://youtu.be/sU4z4Ti-8OQ)!
 
+# Demo link
+
+Please visit this link https://angular-budget-calculator.herokuapp.com/
+
 ## Screenshots
 
-![Application Screenshot Progress](./src/assets/screenshots/UI-Completed.png)
+![Application Screenshot Defaul](./src/assets/screenshots/Default.png)
+![Application Screenshot Edit Modal](./src/assets/screenshots/SS_Edit_Modal.png)
+![Application Screenshot After Edit](./src/assets/screenshots/SS_After_Edit.png)
 
 # BudgetApp
 
